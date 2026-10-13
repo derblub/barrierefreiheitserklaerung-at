@@ -89,7 +89,7 @@ Automatische Prüfungen finden nur einen Teil aller Barrieren. Sie ersetzen die 
 | --- | --- | --- | --- |
 | PDF-Rechnungen sind nicht getaggt. | Screenreader lesen die Tabelle mit den Positionen nicht als Tabelle vor. | Auf Anfrage schicken wir die Rechnung als barrierefreies PDF oder als Text in der E-Mail. | 31. März 2027 |
 | Der 3D-Konfigurator für Regale lässt sich nur mit der Maus bedienen. | Ohne Maus können Sie kein Regal zusammenstellen. | Wir stellen das Regal am Telefon mit Ihnen zusammen und schicken ein Angebot. | 30. Juni 2027 |
-| Die Sendungsverfolgung läuft über die Website des Paketdienstes. | Ihre Barrierefreiheit liegt nicht in unserer Hand. | Wir geben telefonisch Auskunft zum Stand der Lieferung. | — |
+| Die Sendungsverfolgung läuft über die Website des Paketdienstes. | Ihre Barrierefreiheit liegt nicht in unserer Hand. | Wir geben telefonisch Auskunft zum Stand der Lieferung. | offen |
 
 ## 6. Wie wir die Barrierefreiheit erhalten
 

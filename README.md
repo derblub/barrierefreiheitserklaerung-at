@@ -1,6 +1,34 @@
-# Barrierefreiheitserklärung für Österreich: Vorlage nach dem BaFG
+<div align="center">
 
-**Eine Vorlage für die Angaben zur Barrierefreiheit, die das österreichische Barrierefreiheitsgesetz von Onlineshops, Buchungsstrecken und anderen digitalen Dienstleistungen verlangt.**
+<a href="https://pushingpixels.at">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="docs/assets/logo-light.svg">
+    <img src="docs/assets/logo.svg" alt="Pushing Pixels" width="96">
+  </picture>
+</a>
+
+<h1>Barrierefreiheitserklärung für Österreich</h1>
+
+<p><strong>Eine Vorlage für die Angaben zur Barrierefreiheit, die das Barrierefreiheitsgesetz von Onlineshops, Buchungsstrecken und anderen digitalen Dienstleistungen verlangt.</strong></p>
+
+<p>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/Lizenz-CC0_1.0-blue" alt="Lizenz: CC0 1.0"></a>
+  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/Rechtsstand-13.10.2026-0f766e" alt="Rechtsstand: 13.10.2026"></a>
+</p>
+
+<p>
+  <a href="vorlage.md">Vorlage</a> ·
+  <a href="beispiel.md">Beispiel</a> ·
+  <a href="#brauche-ich-das">Brauche ich das?</a> ·
+  <a href="#was-das-gesetz-verlangt">Was das Gesetz verlangt</a> ·
+  <a href="#so-verwenden-sie-die-vorlage">Anleitung</a> ·
+  <a href="#häufige-fehler">Häufige Fehler</a>
+</p>
+
+</div>
+
+---
 
 Die meisten Muster im Netz stammen aus dem Recht für Behörden und passen für Unternehmen nicht. Das Barrierefreiheitsgesetz (BaFG) kennt das Wort „Barrierefreiheitserklärung“ gar nicht. Es verlangt etwas anderes: eine Beschreibung der Dienstleistung, Erläuterungen, wie sie funktioniert, und vor allem, **wie** sie die Anforderungen erfüllt. Diese Vorlage ist nach genau diesen Punkten aufgebaut.
 
@@ -57,12 +85,24 @@ Gesetzestext: [BaFG im RIS](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrag
 - **Nur eine E-Mail-Adresse angeben.** Die Angaben müssen auch mündlich zu bekommen sein.
 - **Ein Overlay als Maßnahme nennen.** Ein Zusatzprogramm, das sich über die Seite legt, behebt die Ursachen im Code nicht.
 
+## Mitwirken
+
+Ein falscher Verweis oder eine geänderte Rechtslage ist die nützlichste Meldung. Wie Sie etwas melden oder vorschlagen, steht in [CONTRIBUTING.md](CONTRIBUTING.md). Es gilt der [Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## Lizenz
 
 [CC0 1.0](LICENSE): Sie dürfen die Vorlage ohne Nennung und ohne Auflagen verwenden und verändern.
 
-Fehler in den Verweisen oder eine geänderte Rechtslage? Bitte ein [Issue](https://github.com/derblub/barrierefreiheitserklaerung-at/issues) aufmachen, mit Quelle.
-
 ---
 
-Erstellt und gepflegt von [Daniel Kurdoghlian](https://pushingpixels.at), [Pushing Pixels](https://pushingpixels.at) in Wien. Für die automatische Prüfung jeder Seite gibt es [axe-routes](https://github.com/derblub/axe-routes). Die Prüfung durch Menschen, den Bericht und einen Entwurf dieser Angaben für Ihr Angebot gibt es als [Barrierefreiheits-Audit zum Festpreis](https://pushingpixels.at/de/creates/accessibility-audit).
+<div align="center">
+  <a href="https://pushingpixels.at/de">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="docs/assets/pushing-pixels-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="docs/assets/pushing-pixels-light.svg">
+      <img src="docs/assets/pushing-pixels.svg" alt="Pushing Pixels" width="320">
+    </picture>
+  </a>
+  <p>Erstellt und gepflegt von <a href="https://pushingpixels.at/de">Daniel Kurdoghlian</a>, <a href="https://pushingpixels.at/de">Pushing Pixels</a> in Wien.<br>
+  Jede Seite automatisch prüfen: <a href="https://github.com/derblub/axe-routes">axe-routes</a>. Die Prüfung durch Menschen, den Bericht und einen Entwurf dieser Angaben für Ihr Angebot mache ich als <a href="https://pushingpixels.at/de/creates/accessibility-audit">Barrierefreiheits-Audit zum Festpreis</a>.</p>
+</div>

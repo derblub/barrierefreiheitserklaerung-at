@@ -123,7 +123,7 @@ welchen anderen Weg es gibt und bis wann sie behoben wird. Gibt es keine bekannt
 | Was | Auswirkung | Anderer Weg | Behebung geplant bis |
 | --- | --- | --- | --- |
 | [PDF-Rechnungen sind nicht getaggt.] | [Screenreader lesen die Tabelle nicht als Tabelle vor.] | [Auf Anfrage schicken wir die Rechnung als barrierefreies PDF oder als Text.] | [31.03.2027] |
-| [Die Sendungsverfolgung läuft über die Website des Paketdienstes.] | [Ihre Barrierefreiheit liegt nicht in unserer Hand.] | [Wir geben telefonisch Auskunft zum Stand der Lieferung.] | [—] |
+| [Die Sendungsverfolgung läuft über die Website des Paketdienstes.] | [Ihre Barrierefreiheit liegt nicht in unserer Hand.] | [Wir geben telefonisch Auskunft zum Stand der Lieferung.] | [offen] |
 
 <!-- Falls zutreffend: Berufen Sie sich für einen Teil auf eine unverhältnismäßige Belastung (§ 18 BaFG, Anlage 4),
 muss es dazu eine dokumentierte Beurteilung geben, die fünf Jahre aufbewahrt und dem Sozialministeriumservice

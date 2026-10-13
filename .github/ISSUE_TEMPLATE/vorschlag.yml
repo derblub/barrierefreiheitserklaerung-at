@@ -1,0 +1,14 @@
+name: Vorschlag
+description: Ein fehlender Abschnitt, ein besseres Beispiel oder eine klarere Formulierung.
+labels: ["vorschlag"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Was fehlt oder unklar ist
+    validations:
+      required: true
+  - type: textarea
+    id: idee
+    attributes:
+      label: Ihr Vorschlag

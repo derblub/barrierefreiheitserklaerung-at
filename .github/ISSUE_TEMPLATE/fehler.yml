@@ -1,0 +1,24 @@
+name: Fehler oder geänderte Rechtslage
+description: Ein Verweis stimmt nicht, ein Link ist tot oder das Gesetz hat sich geändert.
+labels: ["fehler"]
+body:
+  - type: input
+    id: stelle
+    attributes:
+      label: Stelle
+      placeholder: vorlage.md, Abschnitt 6
+    validations:
+      required: true
+  - type: textarea
+    id: richtig
+    attributes:
+      label: Was dort stehen sollte
+    validations:
+      required: true
+  - type: input
+    id: quelle
+    attributes:
+      label: Quelle
+      description: Paragraf im RIS oder eine Seite der Behörde oder der WKO.
+    validations:
+      required: true
